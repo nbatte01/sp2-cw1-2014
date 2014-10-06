@@ -1,8 +1,7 @@
 sp2-cw1-2014
 ============
 
-/*This fragment of code was completed by Nicholas Jay Batten for Coursework number 1 
- * on 05/10/2014 as part of the software and programming 2 module at Birkbeck University
+/*This fragment of code was completed by Nicholas Jay Batten for Coursework number 1 on 05/10/2014 as part of the software and programming 2 module at Birkbeck University
  */
 
 import java.util.Scanner;
